@@ -1,0 +1,39 @@
+body {
+	margin: 1.5rem;
+	padding: 1.5rem;
+	border: 2px solid black;
+	background-color: #FEFBF6;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#exp {
+	background-color: bisque;
+}
+
+#edu {
+	background-color: bisque;
+}
+
+#skills {
+	background-color: bisque;
+}
+
+#hobbies {
+	background-color: bisque;
+}
+
+h1 {
+	width: fit-content;
+	text-align: center;
+}
+
+table,
+th,
+td {
+	margin: 1.25rem;
+	border: 1px solid black;
+}
+
+#st {
+	margin: 1.25rem;
+}
